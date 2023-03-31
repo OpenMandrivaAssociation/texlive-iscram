@@ -1,6 +1,6 @@
 Name:		texlive-iscram
 Version:	45801
-Release:	1
+Release:	2
 Summary:	A LaTeX class to publish article to ISCRAM conferences
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/iscram
