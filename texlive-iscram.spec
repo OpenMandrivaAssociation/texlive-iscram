@@ -3,7 +3,7 @@ Version:	45801
 Release:	2
 Summary:	A LaTeX class to publish article to ISCRAM conferences
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/iscram
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/iscram
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/iscram.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/iscram.doc.r%{version}.tar.xz
